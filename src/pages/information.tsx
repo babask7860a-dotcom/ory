@@ -21,7 +21,7 @@ export default function Information() {
     }
 
     try {
-      const response = await fetch("https://pelabix971.pythonanywhere.com/api/information/", {
+      const response = await fetch("https://ozxge94346.pythonanywhere.com/api/information/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

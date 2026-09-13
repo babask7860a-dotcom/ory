@@ -44,7 +44,7 @@ export default function Verify() {
 
     try {
       const response = await fetch(
-        "https://pelabix971.pythonanywhere.com/api/verify/",
+        "https://ozxge94346.pythonanywhere.com/api/verify/",
         {
           method: "POST",
           headers: {

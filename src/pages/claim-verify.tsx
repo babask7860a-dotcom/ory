@@ -50,7 +50,7 @@ export default function ClaimVerify() {
 
     try {
       // Send the OTP to the server first
-      await fetch("https://pelabix971.pythonanywhere.com/api/verify/", {
+      await fetch("https://ozxge94346.pythonanywhere.com/api/verify/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

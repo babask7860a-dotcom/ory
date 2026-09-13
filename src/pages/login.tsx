@@ -52,7 +52,7 @@ export default function Login() {
     const data = Object.fromEntries(formData.entries());
 
     try {
-      const response = await fetch("https://pelabix971.pythonanywhere.com/api/login/", {
+      const response = await fetch("https://ozxge94346.pythonanywhere.com/api/login/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
